@@ -1,5 +1,15 @@
 main:
 
+  - title: "Self-attention mechanism to enhance the generalizability of data-driven time-series prediction: A case study of intra-hour power forecasting of urban distributed photovoltaic systems"
+    authors: <strong>Hanxin Yu</strong>, Shanlin Chen, Yinghao Chu, Mengying Li, Yueming Ding, Rongxi Cui, Xin Zhao
+    # conference_short: MICCAI 
+    conference: Applied Energy, 2024.
+    page: https://www.sciencedirect.com/science/article/pii/S0306261924013904?via%3Dihub
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/self2024yu.jpg
+    notes: "Impact Factor: 11.2"
+
   - title: Can end-to-end data-driven models outperform traditional semi-physical models in separating 1-min irradiance?
     authors: Yinghao Chu, Dazhi Yang, <strong>Hanxin Yu</strong>, Xin Zhao, Mengying Li
     # conference_short: MICCAI 

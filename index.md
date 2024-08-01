@@ -9,7 +9,7 @@ I am a first-year PhD student in the Department of Systems Engineering at City U
 ## Research Interests
 
 - **Renewable Energy:** solar forecast
-<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
+- **Deep Learning:** time series forecast
 
 <!-- ## News
 
